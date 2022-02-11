@@ -1,0 +1,109 @@
+body{
+background-color: powderblue;
+}
+
+a{
+color: red;
+text-decoration: none;
+}
+
+li{
+display: inline-block;
+height: 25px;
+width: 200px;
+padding: 5px;
+text-align: center;
+background-color: blue;
+}
+
+li:hover{
+background-color: linen;
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+  color: red;
+  font-family: 'Supermercado One', cursive;
+  text-shadow: 2px 2px 2px yellow;
+}
+
+p{
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: Lightgreen;
+  max-width: 900px;
+  height: 50%;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: green;
+  border-radius: 10px;
+  padding:5px;
+  text-align: justify;
+}
+
+footer {
+  text-align: center;
+  font-style: italic;
+  font-family: 'Supermercado One', cursive;
+}
+
+table {
+  padding:5px;
+  margin-left:25%;
+  background-color: Lightgreen;
+  min-width: 600px;
+  max-width: 900px;
+  height: 50%;
+  border: solid 1px gray;
+}
+
+th {
+  border-bottom: solid 3px darkgray;
+}
+
+td {
+  border-bottom: dotted 1px black;
+}
+
+.onderste {
+  border-bottom: none;
+}
+
+legend {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#cvcontact {
+    text-align: center;
+}
+
+fieldset {
+  margin:25px;
+  background-color: lightgreen;
+  border-radius:25px;
+}
+
+textarea {
+  height: 100px;
+  width: 300px;
+  box-shadow: 2px 2px 2px green;
+}
+button{
+  text-align: center;
+  padding:5px;
+  display: block;
+  margin-top:10px;
+  width: 100px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: outset 2px 2px 5px black;
+}
+
+button:active{
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+  box-shadow: outset 2px 2px 5px gray;
+}
