@@ -53,6 +53,7 @@ section {
 #feiten {
     background-color: yellow;
     float:left;
+    min-width: 110px;
 }
 
 #attractie {
