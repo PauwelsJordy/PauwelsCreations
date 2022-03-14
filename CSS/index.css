@@ -1,0 +1,45 @@
+body {
+  background-color: lightyellow;
+}
+
+header {
+  background-color: azure;
+  height: 50px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+h1 {
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 30px;
+  color:blue;
+  text-decoration: underline;
+}
+
+section {
+  background-color: beige;
+}
+
+#uitleg {
+  text-align: justify;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h3 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+img {
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  background-color: antiquewhite;
+  height: 50px;
+  vertical-align: bottom;
+  text-align: center;
+}
