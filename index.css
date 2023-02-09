@@ -1,0 +1,99 @@
+footer {
+  height: 50px;
+  background-color: yellow;
+  text-align: center;
+  padding: 1px;
+}
+
+body {
+  background-color: black;
+}
+
+#tabs-1 {
+  min-height: 500px;
+}
+
+#welkom {
+  margin: 5px;
+  float: left;
+  height: 150px;
+  width: 250px;
+  padding: 10px;
+  background-color: lightyellow;
+  border-style: double;
+  border-color: yellow;
+  border-radius: 25px;
+  text-align: justify;
+}
+
+#welkom1 {
+  margin: 5px;
+  height: 200px;
+  width: 250px;
+  padding: 10px;
+  float: left;
+  text-align: justify;
+  background-color: red;
+  border-style: double;
+  border-color: darkred;
+  border-radius: 25px;
+}
+
+#welkom2 {
+  margin-top: 260px;
+  width: 550px;
+  padding: 10px;
+  text-align: justify;
+  background-color: lightgray;
+  border-style: double;
+  border-color: gray;
+  border-radius: 25px;
+}
+
+#tabs-2 {
+  min-height: 1750px;
+}
+
+#tabs-3 {
+  min-height: 1000px;
+}
+
+#tabs-4 {
+  min-height: 1000px;
+}
+
+#tabs-5 {
+  min-height: 1000px;
+}
+
+#tabs-6 {
+  min-height: 1000px;
+}
+
+.welkom3 {
+  width: 550px;
+  padding: 10px;
+  text-align: justify;
+  background-color: lightgray;
+  border-style: double;
+  border-color: gray;
+  border-radius: 25px;
+}
+
+.Tas {
+  padding: 10px;
+  margin: 5px;
+  float: left;
+  min-height: 150px;
+  max-width: 150px;
+  background-color: beige;
+  border-style: double;
+  border-color: yellow;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.tastitel {
+  text-decoration: underline;
+  text-shadow: 2px 2px 2px Red;
+}
